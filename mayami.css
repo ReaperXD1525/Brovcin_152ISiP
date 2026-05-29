@@ -151,6 +151,19 @@ nav .btn a:hover {
     display: inline-block;
 }
 
+.btnn {
+        background-color: #c0392b;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.3s;
+    text-transform: uppercase;
+    display: inline-block;
+}
 .btn:hover {
     background-color: #c0392b;
 }
